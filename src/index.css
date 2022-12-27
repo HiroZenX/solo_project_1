@@ -80,3 +80,6 @@ header > span:nth-child(1){
 .text-data > h4{
   margin-bottom: 10px;
 }
+.text-data > p{
+  color: rgb(78, 78, 78);line-height: 1.3;
+}
